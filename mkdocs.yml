@@ -13,8 +13,8 @@ copyright: 'Copyright &copy; Mouli veera'
 
 # Context  
 nav:
-  - Home:
-    - 'Index': 'index.md'
+#  - Home:
+#    - 'Index': 'index.md'
   - Elasticsearch:
     - 'How to resolve unassigned shards in Elasticsearch': 'elasticsearch/resolve-unassigned-shards-in-elasticsearch.md'
 
